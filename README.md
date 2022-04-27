@@ -14,21 +14,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> 	
-&#127812; Goomba 	
-&#127812; </h1>
+<h1> 	
+&#127812; NickName is "Goomba" &#127812;
+</h1>
 
-<p align="center">노력하는 ~ing형 개발자입니다.</p>
+## 안녕하세요!   
+## 제 이름은 서한승(Seo Han Seung)이고, 닉네임은 Goomba 입니다.
 
-<br>
+<br/>
 
-<pre>현재는 Android 관련 개발을 하고 있습니다.</pre>
+### 사는 곳은 서울 마포구이며, 차량용 소프트웨어를 만들고 있습니다.
 
-<br>
+<br/>
 
-<h2 align="center"> &#127775; Tech &#127775; </h3>
+<h2> &#127775; Tech &#127775; </h3>
 
-<p align="center">
+주로 사용하는 언어&기술입니다.
+
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 </br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -39,12 +41,11 @@ Here are some ideas to get you started:
 </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-</p>
 
 </br>
 
-<h3 align="center"> &#128149; Blog &#128149; </h4>
+<h2> &#128149; Blog &#128149; </h2>
 
-<p align="center">
+<p>
 <a href="https://goomba25.github.io/"><img src="https://img.shields.io/badge/Github%20Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://goomba25.github.io"/></a>&nbsp
 </p>
